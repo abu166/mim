@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mim/love-hearts/static/css/main.751407fc.css",
+    "main.js": "/mim/love-hearts/static/js/main.07803258.js",
+    "index.html": "/mim/love-hearts/index.html",
+    "main.751407fc.css.map": "/mim/love-hearts/static/css/main.751407fc.css.map",
+    "main.07803258.js.map": "/mim/love-hearts/static/js/main.07803258.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.751407fc.css",
+    "static/js/main.07803258.js"
+  ]
+}
