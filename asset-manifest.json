@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/mim/love-hearts/static/css/main.751407fc.css",
-    "main.js": "/mim/love-hearts/static/js/main.07803258.js",
-    "index.html": "/mim/love-hearts/index.html",
-    "main.751407fc.css.map": "/mim/love-hearts/static/css/main.751407fc.css.map",
-    "main.07803258.js.map": "/mim/love-hearts/static/js/main.07803258.js.map"
+    "main.css": "/abu166/mim.github.io/love-hearts/static/css/main.751407fc.css",
+    "main.js": "/abu166/mim.github.io/love-hearts/static/js/main.07803258.js",
+    "index.html": "/abu166/mim.github.io/love-hearts/index.html",
+    "main.751407fc.css.map": "/abu166/mim.github.io/love-hearts/static/css/main.751407fc.css.map",
+    "main.07803258.js.map": "/abu166/mim.github.io/love-hearts/static/js/main.07803258.js.map"
   },
   "entrypoints": [
     "static/css/main.751407fc.css",
